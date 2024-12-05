@@ -1,0 +1,7 @@
+1. npm install --save-dev jest @types/jest ts-jest
+2. npm install --save-dev supertest @types/supertest
+3. create jest.config.js file
+4. setup tsconfig.test.json file
+5. setup tsconfig.json file
+6. add commands in package.json file 
+7. wrap app.listen inisde condition
